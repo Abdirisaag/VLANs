@@ -58,3 +58,4 @@ ping 192.168.10.6 (reachable)
 ping 192.168.20.1 (Unreachable)
 
 ping 192.168.30.1 (Unreachable)
+copy running-config startup-config 
